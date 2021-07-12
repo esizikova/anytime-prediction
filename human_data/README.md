@@ -14,7 +14,7 @@ Neural networks have been shown to exhibit remarkable object recognition perform
 
 
 ## Demographic Information
-We collect performance statistics from 33 observers (22 Male, 11 Female) with ages ranged from 24 to 62 years, and who who agreed to participate in an hour long session. Each observer had a normal or corrected-to-normal vision. 
+We collect performance statistics from 33 observers (23 Male, 12 Female) with ages ranged from 24 to 62 years, and who who agreed to participate in an hour long session. Each observer had a normal or corrected-to-normal vision. 
 
 ## Process
 The stimuli were presented via JATOS survey via worker links to each observer. A standard IRB approved consent form was signed before collecting the data by each observer, and demographic information was collected. For different perturbations, observers were given specific instructions to complete the survey. 

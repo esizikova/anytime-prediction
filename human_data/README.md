@@ -111,6 +111,9 @@ There are three different surveys which were hosted on JATOS and worker links we
 
 * To access data related to greyscale/color:[greyscale/color](https://github.com/omkar-kumbhar/anytime-prediction-analysis/tree/main/color_gray)
 
+## Reproducing the surveys
+In order to create, modify and deploy the object recognition surveys, please take a look at our surveys saved [here](https://github.com/ajaysub110/anytime-prediction/tree/master/human_data/jatos_surveys)
+
 ## Contribute to the data
 If you'd like to take the survey and contribute to HumanRT data, you can check out the links below. 
 

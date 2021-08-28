@@ -1,8 +1,8 @@
-# Using Dynamic Neural Networks to Model Speed-Accuracy Trade-Off in People
+# SATBench: A Benchmark of the Human Speed-Accuracy Tradeoff in Recognizing Objects
 
 **This repository contains code and data used in the paper:**
 
-*"Using Dynamic Neural Networks to Model Speed-Accuracy Trade-Off in Humans" by Ajay Subramanian, Omkar Kumbhar, Elena Sizikova, Najib J. Majaj, Denis Pelli (New York University).*
+*"SATBench: A Benchmark of the Human Speed-Accuracy Tradeoff in Recognizing Objects" by Ajay Subramanian, Omkar Kumbhar, Elena Sizikova, Najib J. Majaj, Denis Pelli (New York University).*
 
 We present a benchmark, a speed-accuracy trade-off in human performance, with various image perturbations (grayscale conversion, noise, and blur). We also evaluate the ability of several dynamic neural networks to mimic human speed-accuracy trade-offs using similar images and perturbations.
 
